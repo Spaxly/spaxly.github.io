@@ -1,0 +1,48 @@
+body {
+    background-image: url(/Images/ProjectsBackground.png);
+}
+
+a {
+    color: white;
+    font-size: 40px;
+    margin-inline: 10px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+h3 {
+    color: white;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 330px;
+}
+
+p[id='ExplorationBotParagraph'] {
+    color: white;
+    font-size: 25px;
+    margin-left: 330px;
+}
+
+img {
+    margin-top: -200px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
