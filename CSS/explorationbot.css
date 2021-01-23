@@ -1,0 +1,43 @@
+body {
+    background-image: url(/Images/ProjectsBackground.png);
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+a {
+    color: white;
+    font-size: 40px;
+    margin-inline: 10px;
+}
+
+img {
+    float: left;
+    margin-top: -150px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+h3 {
+    color: white;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 330px;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+    margin-left: 330px;
+    margin-top: 50px;
+    
+}

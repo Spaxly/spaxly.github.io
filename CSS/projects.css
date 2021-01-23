@@ -12,6 +12,7 @@ h1 {
     color: white;
     text-align: center;
     font-size: 60px;
+    margin-top: -10px;
 }
 
 h2 {
@@ -28,13 +29,15 @@ h3 {
     margin-left: 330px;
 }
 
-p[id='ExplorationBotParagraph'] {
+p[id='PartyBotParagraph'] {
     color: white;
     font-size: 25px;
     margin-left: 330px;
+    
 }
 
-img {
+img[alt="PartyBot"] {
+    float: left;
     margin-top: -200px;
 }
 
@@ -45,5 +48,12 @@ img {
     width: 100%;
     color: white;
     text-align: center;
+}
+
+a[id="PartyBotBtn"] {
+    background-color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 40px;
 }
 
